@@ -1,0 +1,6 @@
+.cache
+bin
+dist
+downloads
+node_modules
+*.exe

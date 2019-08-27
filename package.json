@@ -1,0 +1,18 @@
+{
+  "main": "src/app.js",
+  "scripts": {
+    "build": "parcel build src/app.js --target node",
+    "watch": "parcel watch src/app.js --target node",
+    "nexe": "node nexe.build.js",
+    "deploy": "npm run build && npm run nexe",
+    "exe": "bin\\app"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "nexe": "^3.3.2",
+    "parcel": "^1.12.3"
+  }
+}
