@@ -1,0 +1,7 @@
+.cache
+bin
+dist
+downloads
+node_modules
+geckodriver.exe
+src/config.js
