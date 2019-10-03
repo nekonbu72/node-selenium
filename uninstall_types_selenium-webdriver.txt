@@ -1,0 +1,2 @@
+$ cd 'C:\Users\Tomoyuki Nakamura\AppData\Local\Microsoft\TypeScript\3.6'
+$ npm uninstall --save-dev @types/selenium-webdriver

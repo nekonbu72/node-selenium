@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "allowJs": false,
+    "outFile": ""
+  },
+  "typeAcquisition": {
+    "exclude": ["selenium-webdriver"]
+  },
+  "typingOptions": {
+    "enableAutoDiscovery": false
+  }
+}
